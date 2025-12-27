@@ -2,10 +2,10 @@
 Created a Currency Exchange , using HTML,CSS &amp; JS along with currency api integration , so that user get latest data about different currency exchange rate
 
 # Tech Stack used
-HTML
-CSS
-JavaScript
-API Integration
+1) HTML
+2) CSS
+3) JavaScript
+4) API Integration
 
 # Future Plans to Scale Up
 1) Adding Various Country Flag's so that it can be user friendly
