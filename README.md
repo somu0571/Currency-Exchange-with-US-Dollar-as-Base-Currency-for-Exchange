@@ -1,5 +1,6 @@
-# Currency-Exchange-with-US-Dollar-as-Base-Currency-for-Exchange
-Created a Currency Exchange , using HTML,CSS &amp; JS along with currency api integration , so that user get latest data about different currency exchange rate
+# 📊 Currency Exchange with USD as Base Currency
+
+A simple currency converter application that computes exchange rates of various global currencies relative to the US Dollar (USD). This tool allows users to convert values between USD and other currencies using real-time or static exchange rate data.
 
 # Tech Stack used
 1) HTML
